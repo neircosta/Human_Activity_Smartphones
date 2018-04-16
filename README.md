@@ -38,6 +38,8 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 ![pipes](images/features2.png)
 
+For a brief evaluation of the data, it follows a comparison of how some features behave in face of the different types of activities performed:
+
 ### Accelerometer Body
 
 #### Mean:
