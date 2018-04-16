@@ -11,7 +11,8 @@ Source:
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.
 
-![pipes](images/samsung Galaxy II.jpg) ![pipes](images/phone_waist.jpeg)
+![pipes](images/samsung_galaxy_II.jpg)
+![pipes](images/phone_waist.jpeg)
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window)
 
