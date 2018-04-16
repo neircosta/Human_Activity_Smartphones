@@ -104,11 +104,11 @@ I used the PCA method to reduce the dimensionality of the sample to 36 component
 
 ![pipes](images/Comparing_Models.png)
 
-### AdaBoost (Worst Accuracy):
+### Decision Tree (Worst Accuracy):
 
 #### Confusion Matrix:
 
-![pipes](images/AdaBoost_accuracy.png)
+![pipes](images/Decision_Tree_accuracy.png)
 
 ### Neural Network (Best Accuracy):
 
