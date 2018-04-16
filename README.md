@@ -116,11 +116,11 @@ I used the PCA method to reduce the dimensionality of the sample to 36 component
 
 #### Plot TensorBoard Validation Accuracy:
 
-![pipes](images/Plot TensorBoard01.png)
+![pipes](images/Plot_TensorBoard01.png)
 
 #### Plot TensorBoard Validation Loss:
 
-![pipes](images/Plot TensorBoard02.png)
+![pipes](images/Plot_TensorBoard02.png)
 
 #### Confusion Matrix:
 
