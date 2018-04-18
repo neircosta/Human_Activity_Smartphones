@@ -106,6 +106,11 @@ I used the PCA method to reduce the dimensionality of the sample to 36 component
 
 ![pipes](images/PCA_variance.png)
 
+We can see that the first 2 components of the PCA (67% variance) already allow us a good separation between STATIC POSTURES and DYNAMIC ACTIVITIES:
+
+![pipes](images/plot_pca_2components.png)
+
+
 ## Comparing Accuracy Models
 
 ![pipes](images/Comparing_Models.png)
