@@ -6,6 +6,7 @@ Human Activity Recognition database built from the recordings of 30 subjects per
 
 Source:
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 Video of Experiment:
 https://www.youtube.com/watch?v=XOEN9W05_4A
 
